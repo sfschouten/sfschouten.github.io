@@ -9,10 +9,12 @@ analytics:
     tracking_id: UA-22241687-2
 
 author:
-  name: "Stefan Frederik Schouten"
+  name: "S. F. Schouten"
+  avatar: "/assets/images/profile_pic.jpg"
+  location: "Netherlands, Gouda"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelop-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: mailto:sfschouten@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
