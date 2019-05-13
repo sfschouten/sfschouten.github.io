@@ -1,5 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes@4.16.3"
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "dark"
 
 locale: "en-GB"
 title: Stefan Frederik Schouten
@@ -11,6 +11,7 @@ analytics:
 
 author:
   name: "S. F. Schouten"
+  bio: "Computer Science student pursuing a career in AI."
   avatar: "/assets/images/profile_pic.jpg"
   location: "Netherlands, Gouda"
   links:
