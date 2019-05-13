@@ -1,8 +1,9 @@
 remote_theme: "mmistakes/minimal-mistakes@4.16.3"
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "dirt"
 
 locale: "en-GB"
-title: Stefan F. Schouten
+title: Stefan Frederik Schouten
+repository: "sfschouten/sfschouten.github.io"
 analytics:
   provider: "google"
   google:
@@ -20,6 +21,9 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sfschouten"
 
+
+paginate: 5
+paginate_path: /blog/page:num
 
 plugins:
   - jekyll-include-cache
