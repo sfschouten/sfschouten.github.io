@@ -1,7 +1,25 @@
 remote_theme: "mmistakes/minimal-mistakes@4.16.3"
+minimal_mistakes_skin: "dark"
+
+locale: "en-GB"
+title: Stefan F. Schouten
+analytics:
+  provider: "google"
+  google:
+    tracking_id: UA-22241687-2
+
+author:
+  name: "Stefan Frederik Schouten"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelop-square"
+      url: mailto:sfschouten@gmail.com
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sfschouten"
 
 plugins:
   - jekyll-include-cache
 
-#title: Stefan F. Schouten
-#google_analytics: UA-22241687-2
+
+
