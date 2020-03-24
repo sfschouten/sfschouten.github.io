@@ -3,7 +3,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.19.1"
 minimal_mistakes_skin: "dark"
 
 locale: "en-GB"
-title: Stefan Frederik Schouten
+title: Stefan Frederik Schouten 
 repository: "sfschouten/sfschouten.github.io"
 analytics:
   provider: "google"
@@ -11,7 +11,7 @@ analytics:
     tracking_id: UA-22241687-2
 
 author:
-  name: "Stefan Schouten"
+  name: "Stefan F. Schouten"
   bio: "Master's student Artificial Intelligence at the University of Amsterdam."
   avatar: "/assets/images/profile_pic.jpg"
   location: "Netherlands, Gouda"
@@ -37,6 +37,13 @@ defaults:
       comments: true
       share: true
       related: true
+
+tag_archive:
+  type: liquid
+  path: /tags/
+category_archive:
+  type: liquid
+  path: /categories/
 
 paginate: 5
 paginate_path: /blog/page:num
