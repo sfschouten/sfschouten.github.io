@@ -1,4 +1,5 @@
-remote_theme: "mmistakes/minimal-mistakes@4.16.3"
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.19.1"
 minimal_mistakes_skin: "dark"
 
 locale: "en-GB"
@@ -22,6 +23,17 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sfschouten"
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 paginate: 5
 paginate_path: /blog/page:num
