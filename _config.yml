@@ -25,6 +25,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=Hhxbv4kAAAAJ"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/stefanfs93"
 
 defaults:
   - scope:
