@@ -1,5 +1,5 @@
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
 
 locale: "en-GB"
@@ -12,7 +12,7 @@ analytics:
 
 author:
   name: "Stefan F. Schouten"
-  bio: "Master's student Artificial Intelligence at the University of Amsterdam."
+  bio: "PhD Candidate at the CLTL @ Vrije Universiteit Amsterdam."
   avatar: "/assets/images/profile_pic.jpg"
   location: "Netherlands, Gouda"
   links:
