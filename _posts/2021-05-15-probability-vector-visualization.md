@@ -7,7 +7,7 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-Mirror of [this post on Medium](https://sfschouten.medium.com/plotting-on-the-simplex-visualizing-rank-correlations-and-losses-182dd781f531).
+[Mirror of [post on Medium](https://sfschouten.medium.com/plotting-on-the-simplex-visualizing-rank-correlations-and-losses-182dd781f531).]
 
 For the past year or so I have been involved in a project systematically comparing feature-additive eXplainable AI (XAI) methods. This class of XAI methods attempt to explain a model's output in terms of its inputs. Specifically, they assign an importance weight to each of the model's input features.
 <!--more-->
