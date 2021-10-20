@@ -3,7 +3,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
 
 locale: "en-GB"
-title: Stefan Frederik Schouten 
+title: "sfschouten"
+
 repository: "sfschouten/sfschouten.github.io"
 analytics:
   provider: "google"
@@ -48,8 +49,8 @@ category_archive:
   type: liquid
   path: /categories/
 
-paginate: 5
-paginate_path: /blog/page:num
+paginate: 3 
+paginate_path: /page:num/
 
 plugins:
   - jekyll-include-cache

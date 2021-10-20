@@ -3,7 +3,8 @@ title: "Care2Report: Automated Medical Reporting"
 tags: 
   - bachelor-program
 categories:
-  - study
+  - news
+  - publications
 ---
 
 During my bachelor thesis project I worked in a team that developed a prototype for a research program called Care2Report at Utrecht University.

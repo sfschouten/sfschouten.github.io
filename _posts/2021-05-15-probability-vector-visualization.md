@@ -3,7 +3,7 @@ title: Plotting on the Simplex - Visualizing (rank) correlations and losses.
 tags:
   - master-program
 categories:
-  - study
+  - blog 
 excerpt_separator: <!--more-->
 ---
 

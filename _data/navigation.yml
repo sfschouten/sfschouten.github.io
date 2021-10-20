@@ -1,3 +1,7 @@
 main:
+  - title: "News"
+    url: /news/
   - title: "Blog"
     url: /blog/
+  - title: "Publications"
+    url: /publications/

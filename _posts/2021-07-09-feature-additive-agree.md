@@ -3,7 +3,7 @@ title: 'Project AI: Do Feature-Additive Explanation Methods Agree?'
 tags:
   - master-program
 categories:
-  - study
+  - news 
 ---
 
 Report written for the 'Project AI' course Michael Neely and I did on eXplainable AI. This course was done during our time in the MSc AI program at the University of Amsterdam.
