@@ -1,6 +1,5 @@
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark"
+remote_theme: "mmistakes/minimal-mistakes@master"
 
 locale: "en-GB"
 title: "sfschouten"
@@ -13,13 +12,13 @@ analytics:
 
 author:
   name: "Stefan F. Schouten"
-  bio: "PhD Candidate at the CLTL @ Vrije Universiteit Amsterdam."
-  avatar: "/assets/images/profile_pic.jpg"
-  location: "Netherlands, Gouda"
+  bio: "PhD Candidate with CLTL @ Vrije Universiteit Amsterdam."
+  avatar: "/assets/images/profile_france.jpg"
+  location: "Netherlands, Amstelveen"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:sfschouten@gmail.com
+      url: mailto:s.f.schouten@vu.nl
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sfschouten"
