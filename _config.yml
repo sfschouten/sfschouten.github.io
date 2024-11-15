@@ -26,10 +26,10 @@ author:
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=Hhxbv4kAAAAJ"    
     - label: "Bluesky"
-      icon: "fab fas-bluesky"
+      icon: "fab fa-bluesky"
       url: "https://bsky.app/profile/stefanfs.me"
     - label: "X"
-      icon: "fab fas-x-twitter"
+      icon: "fab fa-x-twitter"
       url: "https://x.com/stefanfs93"
 
 defaults:
