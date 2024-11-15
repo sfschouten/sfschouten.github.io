@@ -2,7 +2,7 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@master"
 
 locale: "en-GB"
-title: "sfschouten"
+title: "stefanfs"
 
 repository: "sfschouten/sfschouten.github.io"
 analytics:
